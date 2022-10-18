@@ -1,13 +1,23 @@
 nodo1,nodo2,sendero,distancia,color,estimate
-Av Llano,Glorieta La Grama,rs,1.10,blue,0
-Av Alfonso Lopez,Av Llano,rs,1.34,blue,0
-Via Restrepo,Av Alfonso Lopez,rs,1.48,blue,0
-Via Bogota ,Via Retrepo,rs,0.69,blue,0
-Cristo Rey ,Via Bogota,rs,4.38,blue,0
-Concha Acustica,Cristo Rey,rs,1.83,red,0
-Parque Infantil,Concha Acustica,rs,4.08,red,0
-Catedral Primada,Parque Infantil,rs,2.67,red,0
-Parque Central,Catedral Primada,rs,0.65,red,0
-Banco de la Republica,Parque Central,rs,0.60,red,0
-Almacen Ley,Banco de la Republica,rs,2.99,red,0
-Almacen YEP,Almacen Ley,rs,1.65,red,0
+Villamelida,Los trigos,rs,0,blue,27
+Los trigos,Llano lindo,rs,0,blue,7
+Llano lindo,Catumare,rs,0,blue,6
+Catumare, San jorge,rs,0,blue,4
+San jorge, Parque guatape,rs,0,blue,12
+Parque Guatape,Hospital departamental,rs,0,red,23
+Hospital departamental,El rubi,rs,0,red,14
+El rubi,Parque Guatape,rs,0,red,14
+Parque Guatape,La coralina,rs,0,red,6
+La coralina,Los comuneros,rs,0,red,5
+Los comuneros,Villa Suarez,rs,0,red,10
+Villa suarez,Saratex,rs,0,red,9
+Saratex, El buque, rs, 0, red,2
+El buque, Politecnico grancolombia, rs, 0, blue, 12
+Politecnico grancolombia, Piel canela, rs, 0, blue,25
+Piel canela, La alemana, rs, 0, blue, 15
+La alemana, Sanitas, rs, 0, blue, 12
+Sanitas, El sabanero, rs, 0, blue, 16
+El sabanero, Multisalud, rs, 0, blue,10
+Multisalud, Tecnisold, rs, 0, blue, 10
+Tecnisold, Inegas, rs, 0, blue, 21
+Inegas, Moizaro, rs, 0, blue, 11

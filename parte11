@@ -1,0 +1,5 @@
+nodo1,nodo2,sendero,distancia,color,estimate
+Villamelida,Los trigos,rs,10,blue,27
+Los trigos,Llano lindo,rs,20,blue,8
+Llano lindo,Catumare,rs,11,blue,10
+

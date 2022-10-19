@@ -2,4 +2,21 @@ nodo1,nodo2,sendero,distancia,color,estimate
 Villamelida,Los trigos,rs,10,blue,27
 Los trigos,Llano lindo,rs,20,blue,8
 Llano lindo,Catumare,rs,11,blue,10
-
+Parque Guatape,Hospital departamental,rs,14,blue,23
+Hospital departamental,El rubi,rs,16,blue,14
+El rubi, Uniminuto,rs,21,blue,14
+Uniminuto,La coralina,rs,22,blue,8
+La coralina,Los comuneros,rs,23,blue,14
+Los comuneros,Villa Suarez,rs,20,blue,10
+Villa suarez,Saratex,rs,12, blue,14
+Saratex, El buque, rs, 25, blue,10
+El buque, Politecnico grancolombia, rs, 11, blue, 12
+Politecnico grancolombia, Piel canela, rs, 10, blue,25
+Piel canela, La alemana, rs, 9, blue, 15
+La alemana, Sanitas, rs, 16, blue, 12
+Sanitas, El sabanero, rs, 17, blue, 16
+El sabanero, Multisalud, rs, 18, blue,10
+Multisalud, Tecnisold, rs, 19, blue, 10
+Tecnisold, Inegas, rs, 20, blue, 21
+Inegas, Moizaro, rs, 21, blue, 11
+Moizaro, Villamelida, rs, 22, blue, 23

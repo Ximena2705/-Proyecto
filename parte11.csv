@@ -1,5 +1,27 @@
 nodo1,nodo2,sendero,estimate,color,distancia
 Villamelida,Los trigos,rs,27,blue,0
+villamelida,Llano lindo, rs,20,blue,0
+Catumare,Los trigos,rs,11,blue,0
+Llano lindo,Parque Guatape,rs,9,blue,0
+Catumare, Hospital departamental,rs,14,blue,0
+El rubi, Villa suarez,rs,24,blue,0
+La coralina, Saratex,rs,10,blue,0
+Los comuneros, Piel canela,rs,13,blue,0
+Sanitas,Multisalud,rs,4,blue,0
+La alemana,El buque,rs,2,blue,0
+Inegas,El sabanero,rs,12,blue,0
+Mozairo,Politecnico grancolombia,rs,10,blue,0
+Tecnisold,Villamelida,rs,9,blue,0
+Saratex,Parque Guatape,rs,16,blue,0
+El buque, Llano lindo,rs,7,blue,0
+Los comuneros,Inegas,rs,11,blue,0
+El rubi,La alemana,rs,21,blue,0
+Piel canela,saratex,rs,5,blue,0
+La coralina, Inegas, rs,12,blue,0
+Hospital departamental, Villa suarez,rs,10,blue,0
+Los comuneros, El sabanero,rs,9,blue,0
+Politecnico grancolombiano, Catumare,rs,6, blue,0
+Saratex,El rubi,rs,19,blue,0
 Los trigos,Llano lindo,rs,8,blue,0
 Llano lindo,Catumare,rs,10,blue,0
 Parque Guatape,Hospital departamental,rs,23,blue,0
@@ -9,8 +31,8 @@ La coralina,Los comuneros,rs,14,blue,0
 Los comuneros,Villa Suarez,rs,10,blue,0
 Villa suarez,Saratex,rs,14, blue,0
 Saratex, El buque, rs, 10, blue,0
-El buque, Politecnico grancolombia, rs, 12, blue,0 
-Politecnico grancolombia, Piel canela, rs, 25, blue,0
+El buque, Politecnico grancolombiano, rs, 12, blue,0 
+Politecnico grancolombiano, Piel canela, rs, 25, blue,0
 Piel canela, La alemana, rs, 15, blue,0 
 La alemana, Sanitas, rs, 12, blue,0 
 Sanitas, El sabanero, rs, 16, blue,0 

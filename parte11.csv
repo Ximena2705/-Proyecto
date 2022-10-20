@@ -1,6 +1,6 @@
 nodo1,nodo2,sendero,estimate,color,distancia
 Villamelida,Los trigos,rs,27,blue,0
-catumare,Villamelida,rs,20,blue,0
+Catumare,Villamelida,rs,20,blue,0
 Parque guatape,Catumare,rs,11,blue,0
 Llano lindo,Parque guatape,rs,14,blue,0
 Saratex,Llano lindo,rs,9,blue,0
